@@ -12,4 +12,5 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 6. Penggunaan List: Menggunakan in untuk memeriksa validitas tipe tiket dalam list yang berisi "reguler" dan "vip".
 
 ## Flowchart Diskon
-![Flowchart](flowchart diskon.png) 
+![Flowchart](flowchartdiskon.png)
+
