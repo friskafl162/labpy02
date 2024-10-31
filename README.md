@@ -71,6 +71,7 @@ PS C:\Users\user\Documents\Kuliah>
    - Jika "_tidak_", total harga sama dengan harga tiket yang dipilih.
 6. Akhir (_End_) : proses selesai
 
+
 ## Program Kalkulator Sederhana
 Program ini adalah kalkulator sederhana yang memungkinkan pengguna untuk melakukan operasi aritmatika dasar: penjumlahan, pengurangan, perkalian, dan pembagian. Program ini ditulis dalam Python dan menggunakan input dari pengguna untuk mendapatkan angka dan jenis operasi yang diinginkan.
 
@@ -89,7 +90,7 @@ Menawarkan opsi untuk melakukan perhitungan baru setelah hasil ditampilkan.
 ## Flowchart Kalkulator
 ![Flowchart](flowchartkalkulator.png)
 
-## program kalkulator
+## Kode Program Kalkulator
 ```python
 angka1 = float(input("Masukkan angka pertama: "))
 angka2 = float(input("Masukkan angka kedua: "))
@@ -120,7 +121,7 @@ else:
     print("Operator tidak valid. Silakan pilih (+, -, *, /).")
 ```
 
-## Ouutput Program
+## Output Program
 ```
 s/Kuliah/lab2py/pemrograman/input latihan 3.py"
 Masukkan angka pertama: 1600
